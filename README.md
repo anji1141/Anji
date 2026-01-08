@@ -1,19 +1,12 @@
-## Hi 👋 I'm Anji
+# Calculator App
 
-🎓 Student  
-💻 Beginner Web Developer  
-🌱 Learning Git & GitHub  
+A simple calculator built using HTML, CSS, and JavaScript.
 
-### Skills
-- HTML
-- CSS
-- JavaScript
-- Git & GitHub
+## Features
+- Add, subtract, calculate numbers
+- Beginner-friendly UI
 
-### Projects
-- Anji – Practice project
-
-### Goal
-To become a skilled developer and get a job as a fresher.
+## How to Run
+Open index.html in a browser.
 
 
