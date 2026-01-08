@@ -1,40 +1,19 @@
-# \# Anji Project
+## Hi 👋 I'm Anji
 
-# 
+🎓 Student  
+💻 Beginner Web Developer  
+🌱 Learning Git & GitHub  
 
-# This is a beginner-level project created to practice GitHub and basic web development concepts.
+### Skills
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
 
-# 
+### Projects
+- Anji – Practice project
 
-# \## Features
+### Goal
+To become a skilled developer and get a job as a fresher.
 
-# \- Simple and clean design
-
-# \- Beginner-friendly
-
-# 
-
-# \## Technologies Used
-
-# \- HTML
-
-# \- CSS
-
-# \- JavaScript
-
-# 
-
-# \## How to Run
-
-# 1\. Clone the repository
-
-# 2\. Open index.html in browser
-
-# 
-
-# \## Author
-
-# Anji
-
-# 
 
